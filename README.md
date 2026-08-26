@@ -1,7 +1,6 @@
 # Hi, I'm Soumya Pradhan 👋
 
-**Data Analyst** with 6+ years of experience in BFSI / US Mortgage domain analytics, currently working on the CoreLogic/Cotality account.
-
+**Data Analyst** with overall 6+ years of experience in BFSI / US domain analytics.
 I work with data to uncover insights, build reporting solutions, and support underwriting and KPI/SLA workflows. Alongside my core BFSI analytics work, I'm actively building hands-on skills in Python, data automation, and analytics tooling.
 
 ---
